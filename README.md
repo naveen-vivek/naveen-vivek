@@ -1,4 +1,4 @@
 - 👋 Naveen Vivek, @naveen-vivek
-- ⚙️ Product Development Engineer 2 @ Advanced Micro Devices (AMD) Inc.
+- ⚙️ Design Verification Engineer @ Apple
 - 🚂 Bachelor of Science in Electrical Engineering & Mathematics @ Purdue University
 - 🌱 Experience in Computer Architecture, ASIC Design, Machine Learning & Software Engineering
